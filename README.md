@@ -1,4 +1,6 @@
 # FORM ENCODER DECODER (FED)
+![FED UI](https://i.ibb.co/7rvW1QJ/UI.jpg)
+## [Live Demo](https://prince-fed.netlify.app/)
 
 ### Table of Contents
 
