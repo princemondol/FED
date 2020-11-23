@@ -6,9 +6,10 @@
 
 1. [Architecture](#architecture)
 2. [Quick Overview](#quick-overview)
-3. [Application State](#application-state)
-4. [State Manipulation](#state-manipulation)
-5. [Copying state](#copying-state)
+3. [Get Started](#get-started)
+4. [Application State](#application-state)
+5. [State Manipulation](#state-manipulation)
+6. [Copying state to clipboard](#copying-state)
 
 ## Architecture
 ![Application Architecture](https://i.ibb.co/wSHfMJd/Form-Encode-Decoder.jpg)
@@ -20,6 +21,12 @@
 * The application state is maintained using **REDUX**.
 * For responsiveness, **BOOTSTRAP** framework has been used.
 * A helper module (**UIhelper.js**) has been created for radio/checkbox values some extra functionality.
+
+## Get Started
+> * Clone the repository from https://github.com/princemondol/FED.git
+> * Open the directory in terminal and use **npm install**, to install all the dependencies.
+> * After installing all the dependencies, use **npm start** to start the app locally, it automaticaly opens the browser @ localhost:3000
+> * To deploy use **npm run build** to generate a production build and deploy.
 
 ## Application State
 
