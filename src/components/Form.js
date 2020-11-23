@@ -12,7 +12,7 @@ const Form = ({formValue = { radio: [], checkbox: [] }, updateState, applyState,
 
 	return (
 		<>
-			<div className="col-md-4 col-8 offset-2 offset-md-4 bg-white rounded p-4 mt-5 shadow-sm">
+			<div className="col-md-4 col-10 offset-1 offset-md-4 bg-white rounded p-4 mt-5 shadow-sm">
 
 				<input 
 					type="text" 
